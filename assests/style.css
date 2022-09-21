@@ -1,0 +1,16 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: cornsilk;
+  text-align: center;
+}
+
+#navbar {
+  background-color: darkblue;
+  text: white;
+  height: 100px;
+}
+
+h3 {
+  background-color: chocolate;
+  text: white;
+}
